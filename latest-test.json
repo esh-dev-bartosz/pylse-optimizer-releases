@@ -1,0 +1,15 @@
+{
+    "product":  "Pylse PC Optimizer",
+    "version":  "1.3.0.0",
+    "fileName":  "Pylse-PC-Optimizer-v1.3.0.0.exe",
+    "downloadUrl":  "https://github.com/esh-dev-bartosz/pylse-optimizer-releases/releases/download/v1.3.0.0-test/Pylse-PC-Optimizer-v1.3.0.0.exe",
+    "sizeBytes":  66040264,
+    "sha256":  "4AF3A79259EFF0375F930AEAD46DB0258BE6E6F80B9277AEDF89CEC7C32D0F8B",
+    "releaseDate":  "2026-08-13T15:01:21Z",
+    "releaseNotes":  "Pylse PC Optimizer 1.3.0.0. Uploaded and byte-for-byte verified by the Pylse release pipeline.",
+    "signed":  false,
+    "signingStatus":  "Unsigned - Windows SmartScreen may warn",
+    "minimumOs":  "Windows 10 or 11, 64-bit",
+    "releasePageUrl":  "https://github.com/esh-dev-bartosz/pylse-optimizer-releases/releases/tag/v1.3.0.0-test",
+    "channel":  "test"
+}
